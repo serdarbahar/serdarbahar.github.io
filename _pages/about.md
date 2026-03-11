@@ -21,8 +21,7 @@ announcements:
 
 ---
 
-I'm an undergraduate researcher. Bla bla bla bla bla
-
+I'm a senior undergraduate student in the Department of Computer Engineering at Bogazici University. I'm also a research assistant at the Coginitive Learning and Robotics (CoLoRs) Lab, led by Assoc. Prof. Emre Uğur. I am interested in
 
 <!--
 ---
