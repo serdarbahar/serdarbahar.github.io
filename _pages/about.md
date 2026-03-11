@@ -21,7 +21,9 @@ announcements:
 
 ---
 
-I'm a senior undergraduate student in the Department of Computer Engineering at Bogazici University. I'm also a research assistant at the Coginitive Learning and Robotics (CoLoRs) Lab, led by Assoc. Prof. Emre Uğur. I am interested in
+I'm a senior undergraduate student in the Department of Computer Engineering at Bogazici University. I'm also a research assistant at the [Coginitive Learning and Robotics (CoLoRs) Lab](https://colors.cmpe.boun.edu.tr/), led by Assoc. Prof. [Emre Uğur](https://emreugur.org/). 
+
+I am generally interested in planning and learning methods that enable robots to perform tasks in open-ended, complex environments.
 
 <!--
 ---
