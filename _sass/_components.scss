@@ -172,6 +172,15 @@ ul.task-list input[type="checkbox"] {
 // Social (bottom)
 
 .social {
+
+  h1 {
+    color: var(--global-theme-color);
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
   text-align: center;
 
   .contact-icons {
@@ -211,7 +220,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 1.0rem;
   }
 }
 
