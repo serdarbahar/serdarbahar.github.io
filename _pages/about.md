@@ -21,9 +21,10 @@ announcements:
 
 ---
 
-I'm a senior undergraduate student in the [Department of Computer Engineering](https://cmpe.bogazici.edu.tr/) at Bogazici University. I'm also a research assistant at the [Cognitive Learning and Robotics (CoLoRs) Lab](https://colors.cmpe.boun.edu.tr/), led by Assoc. Prof. [Emre Uğur](https://emreugur.org/). I am generally interested in planning and learning methods that enable robots to perform tasks in open-ended, complex environments.
+I'm a senior undergraduate student in the [Department of Computer Engineering](https://cmpe.bogazici.edu.tr/) at Bogazici University. I'm also a research assistant at the [Cognitive Learning and Robotics (CoLoRs) Lab](https://colors.cmpe.boun.edu.tr/), led by Assoc. Prof. [Emre Uğur](https://emreugur.org/).
 
-Besides research, I am an amateur bağlama (a traditional Turkish stringed instrument) player and love folk music. I was also an avid basketball player during my high school years and still follow the games closely (especially Euroleague!). I am also passionate about cinema, and I do my best to keep up with new stuff.
+
+
 
 
 <!--
