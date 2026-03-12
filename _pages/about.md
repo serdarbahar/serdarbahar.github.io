@@ -46,6 +46,8 @@ nav_order: 2
 
 <h1>research</h1>
 
+Selected publications are highlighted.
+
 {% bibliography %}
 
 </div>

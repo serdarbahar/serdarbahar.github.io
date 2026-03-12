@@ -187,3 +187,10 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+.selected {
+  background-color: var(--global-pub-highlight-color);
+  border-left: 5px solid var(--global-theme-color);
+  padding-left: 0.75rem;
+  margin-left: -0.75rem;
+}
