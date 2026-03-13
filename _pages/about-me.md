@@ -2,12 +2,14 @@
 layout: page
 title: about me
 permalink: /about-me/
-description: personal interests beyond research
+description: 
 nav: true
 nav_order: 3
 ---
 
-I am an amateur bağlama (a traditional Turkish stringed instrument) player and love folk music. I was also an avid basketball player during my high school years and still follow the games closely (especially Euroleague!). I am also passionate about cinema, and I do my best to keep up with new stuff.
+Prior to Bogazici University, I attended [Robert College](https://website.robcol.k12.tr/en/home-page), the oldest American high school outside the United States, located in Istanbul, Turkey. I graduated from there in 2022.
+
+I am an amateur bağlama (a traditional Turkish stringed instrument) player. I was also an avid basketball player during my high school years and still follow the games closely. I am also passionate about cinema, and I do my best to keep up with new stuff.
 
 
 <div style="height: 48px;"></div>

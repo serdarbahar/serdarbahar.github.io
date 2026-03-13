@@ -24,9 +24,6 @@ announcements:
 I'm a senior undergraduate student in the [Department of Computer Engineering](https://cmpe.bogazici.edu.tr/) at Bogazici University. I'm also a research assistant at the [Cognitive Learning and Robotics (CoLoRs) Lab](https://colors.cmpe.boun.edu.tr/), led by Assoc. Prof. [Emre Uğur](https://emreugur.org/).
 
 
-
-
-
 <!--
 ---
 layout: page
