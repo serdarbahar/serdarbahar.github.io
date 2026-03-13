@@ -25,4 +25,4 @@ Delicious food during my research internship in [AIST](https://www.aist.go.jp/in
 
 <img src="/assets/img/sirince.jpg" alt="Sirince" width="24%" style="height: 180px; object-fit: cover;">
 
-Olive trees in Şirince, İzmir, Turkey, where I went to a [political anthropology summer camp](https://gocebedusunce.org/) in the summer of 2024. I also went [several other summer camps](https://nesinkoyleri.org/en/main-page/) in Şirince during my high school years.
+Olive trees in Şirince, İzmir, Turkey, where I went to a [political anthropology summer camp](https://gocebedusunce.org/en/) in the summer of 2024. I also went [several other summer camps](https://nesinkoyleri.org/en/main-page/) in Şirince during my high school years.
