@@ -1,10 +1,6 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-05-01'
 papers:
-  HMuct5wAAAAJ:9yKSN-GCB0IC:
-    citations: 0
-    title: "Tutucu Entegre Edilmis Robotlar i\xE7in Art\u0131r\u0131lm\u0131s Ger\xE7eklik Tabanl\u0131 Makine \xD6grenmesi Teknikleri Augmented Reality-Driven Machine Learning Techniques for Gripper-Integrated Robotics"
-    year: '2025'
   HMuct5wAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: Task Parameter Extrapolation via Learning Inverse Tasks from Forward Demonstrations
@@ -17,11 +13,7 @@ papers:
     citations: 1
     title: 'Human Attitudes in Robotic Path Programming: A Pilot Study of User Experience in Manual and XR-Controlled Robotic Arm Manipulation'
     year: '2025'
-  HMuct5wAAAAJ:qjMakFHDy7sC:
-    citations: 0
-    title: "Iliskili Robotik G\xF6revlerin Ortak Kodlamas\u0131n\u0131n \xD6grenilmesi Learning Shared Encoding of Related Robotic Tasks"
-    year: '2025'
   HMuct5wAAAAJ:u-x6o8ySG0sC:
-    citations: 12
+    citations: 13
     title: 'Rampa: Robotic Augmented Reality for Machine Programming by DemonstrAtion'
     year: '2025'
