@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-06-03'
 papers:
   HMuct5wAAAAJ:IjCSPb-OGe4C:
     citations: 0
@@ -14,6 +14,6 @@ papers:
     title: 'Human Attitudes in Robotic Path Programming: A Pilot Study of User Experience in Manual and XR-Controlled Robotic Arm Manipulation'
     year: '2025'
   HMuct5wAAAAJ:u-x6o8ySG0sC:
-    citations: 13
+    citations: 14
     title: 'Rampa: Robotic Augmented Reality for Machine Programming by DemonstrAtion'
     year: '2025'
