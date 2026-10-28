@@ -16,10 +16,10 @@ Then visit http://localhost:8000. Stop the server with Ctrl+C.
 
 Commit and push your changes to `master`. In the repository’s **Settings → Pages**, select **Deploy from a branch**, branch **master**, folder **/ (root)**, then **Save**.
 
-For the current repository (`serdarbahar/serdar-bahar.github.io`), the default project URL is:
-https://serdarbahar.github.io/serdar-bahar.github.io/
+The repository is `serdarbahar/serdarbahar.github.io`. Its GitHub Pages address is:
+https://serdarbahar.github.io/
 
-To serve this template at https://serdarbahar.github.io/ instead, use the repository named exactly `serdarbahar.github.io` under the `serdarbahar` account. This may already host your previous website; update that repository only when you intend to replace it.
+The local folder name does not affect the website address.
 
 GitHub’s Settings → Pages screen shows the definitive published URL. Publication can take up to 10 minutes.
 
