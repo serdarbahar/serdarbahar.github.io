@@ -70,12 +70,12 @@ doi={10.1109/LRA.2026.3732904}}"
         "url": "https://arxiv.org/abs/2603.05576"
       },
       {
-        "label": "code",
-        "url": "https://github.com/serdarbahar/task_par_extrapolation"
-      },
-      {
         "label": "paper",
         "url": "https://ieeexplore.ieee.org/document/11685341"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/serdarbahar/task_par_extrapolation"
       },
       {
         "label": "bib",
