@@ -140,3 +140,26 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.bibtex-toggle {
+  background: none;
+  border: 0;
+  padding: 0;
+  color: #1772d0;
+  font: inherit;
+  cursor: pointer;
+}
+
+.bibtex-toggle:hover,
+.bibtex-toggle:focus {
+  color: #f09228;
+}
+
+.bibtex-entry {
+  margin: 12px 0;
+  padding: 12px;
+  background: #f5f5f5;
+  font-size: 12px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
