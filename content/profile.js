@@ -24,7 +24,7 @@ window.siteProfile = {
   "links": [
     {
       "label": "Email",
-      "url": "serdarbahar44@gmail.com"
+      "url": "mailto:serdarbahar44@gmail.com"
     },
     {
       "label": "Google Scholar",
