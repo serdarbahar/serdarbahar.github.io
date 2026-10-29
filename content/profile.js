@@ -23,12 +23,8 @@ window.siteProfile = {
   ],
   "links": [
     {
-      "label": "Email",
+      "label": "serdarbahar44 [at] gmail [dot] com",
       "url": "mailto:serdarbahar44@gmail.com"
-    },
-    {
-      "label": "Google Scholar",
-      "url": "https://scholar.google.com/citations?user=HMuct5wAAAAJ&hl=tr"
     },
     {
       "label": "GitHub",
